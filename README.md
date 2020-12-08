@@ -6,7 +6,7 @@
 
 
 
-Aquest script analitza un arxiu de logs (el podeu descarregar al mateix git) i ens dirà quines son les IPS amb més de 10 intents, el número total de intents de logueix, la IP que ha fet l'atac i la localització geogràfica de l'atac.
+Aquest script analitza un arxiu de logs (*syslog-sample* el podeu descarregar al mateix git) i ens dirà quines son les IPS amb més de 10 intents, el número total de intents de logueix, la IP que ha fet l'atac i la localització geogràfica de l'atac.
 
 PS: El script **show-attackers** proporciona una documentació **in-line** més extensa. És necessari ser **root**!
 [![N|Solid](https://i.imgur.com/pnQuwyv.png)](https://github.com/asixGV/show-attackers/blob/main/show-attackers.sh)
